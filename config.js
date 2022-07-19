@@ -48,13 +48,13 @@ global.socialm = "GitHub: Jarot" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "ᴀᴍᴇʟʟ-ᴍᴅ" //ur bot name
+global.botname = "[𝙉𝙤𝙩𝙚 𝙎𝙮𝙨𝙩𝙚𝙢] ᴋᴀᴍɪ ʜᴀʀᴀᴘᴋᴀɴ sᴜᴘᴀʏᴀ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ʙᴏᴛ ᴅᴇɴɢᴀɴ ᴄᴇʀᴅᴀs ᴅᴀɴ ʙɪᴊᴀᴋ sᴜᴘᴀʏᴀ ʙᴏᴛ ʙɪsᴀ [𝘼𝙘𝙩𝙞𝙫 𝙊𝙣𝙡𝙮] ᴊɪᴋᴀ ᴋᴀᴍᴜ ʙᴜᴛᴜʜ ʙᴀɴᴛᴜᴀɴ/ᴍᴀᴜ [𝙅𝙖𝙨𝙖𝙍𝙪𝙣] sɪʟᴀʜᴋᴀɴ ᴄʜᴀᴛ ᴏᴡɴᴇʀ ʏᴀʜ ᴍᴀᴋᴀsɪʜ ʙʏᴇ" //ur bot name
 global.websitex = "https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "ʙʏ ᴀᴍᴇʟʟ ᴛɪᴋᴛᴏᴋ Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "[𝙉𝙤𝙩𝙚 𝙎𝙮𝙨𝙩𝙚𝙢] ᴋᴀᴍɪ ʜᴀʀᴀᴘᴋᴀɴ sᴜᴘᴀʏᴀ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ʙᴏᴛ ᴅᴇɴɢᴀɴ ᴄᴇʀᴅᴀs ᴅᴀɴ ʙɪᴊᴀᴋ sᴜᴘᴀʏᴀ ʙᴏᴛ ʙɪsᴀ [𝘼𝙘𝙩𝙞𝙫 𝙊𝙣𝙡𝙮] ᴊɪᴋᴀ ᴋᴀᴍᴜ ʙᴜᴛᴜʜ ʙᴀɴᴛᴜᴀɴ/ᴍᴀᴜ [𝙅𝙖𝙨𝙖𝙍𝙪𝙣] sɪʟᴀʜᴋᴀɴ ᴄʜᴀᴛ ᴏᴡɴᴇʀ ʏᴀʜ ᴍᴀᴋᴀsɪʜ ʙʏᴇ"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
+global.author = "Amell-Bot"
+global.themeemoji = "✨"
+global.reactmoji = "💗"
 global.ownertag = ['62895366943070'] //ur owner tag
 global.ownernummenu = ['62895366943070'] //ur owner number in menu and all
 global.watermark = "Jika Anda Spam Bot Tanpa Sebab Sistem akan Memasukan Nomor daftar hitam" //ur watermark
