@@ -58,7 +58,7 @@ global.reactmoji = "💗"
 global.ownertag = ['62895366943070'] //ur owner tag
 global.ownernummenu = ['62895366943070'] //ur owner number in menu and all
 global.watermark = "Jika Anda Spam Bot Tanpa Sebab Sistem akan Memasukan Nomor daftar hitam" //ur watermark
-global.botscript = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"
+global.botscript = "https://chat.whatsapp.com/LI7QYF3jEnbEiOvKrakdKr"
 global.linkz1 = "https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ"
 global.linkz2 = "https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ"
 
