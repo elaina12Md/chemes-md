@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285850539404'] //ur owner number
-global.ownername = "6285850539404"
-global.ytname = "YT:https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur yt chanel name
+global.owner = ['62895366943070'] //ur owner number
+global.ownername = "ᴀᴍᴇʟʟ-ᴄᴀɴᴛɪᴋ"
+global.ytname = "YT:https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ" //ur yt chanel name
 global.socialm = "GitHub: Jarot" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄" //ur bot name
-global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website
+global.botname = "ᴀᴍᴇʟʟ-ᴍᴅ" //ur bot name
+global.websitex = "https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄ Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄"
+global.packname = "ʙʏ ᴀᴍᴇʟʟ ᴛɪᴋᴛᴏᴋ Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "[𝙉𝙤𝙩𝙚 𝙎𝙮𝙨𝙩𝙚𝙢] ᴋᴀᴍɪ ʜᴀʀᴀᴘᴋᴀɴ sᴜᴘᴀʏᴀ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ʙᴏᴛ ᴅᴇɴɢᴀɴ ᴄᴇʀᴅᴀs ᴅᴀɴ ʙɪᴊᴀᴋ sᴜᴘᴀʏᴀ ʙᴏᴛ ʙɪsᴀ [𝘼𝙘𝙩𝙞𝙫 𝙊𝙣𝙡𝙮] ᴊɪᴋᴀ ᴋᴀᴍᴜ ʙᴜᴛᴜʜ ʙᴀɴᴛᴜᴀɴ/ᴍᴀᴜ [𝙅𝙖𝙨𝙖𝙍𝙪𝙣] sɪʟᴀʜᴋᴀɴ ᴄʜᴀᴛ ᴏᴡɴᴇʀ ʏᴀʜ ᴍᴀᴋᴀsɪʜ ʙʏᴇ"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6285850539404'] //ur owner tag
-global.ownernummenu = ['6285850539404'] //ur owner number in menu and all
-global.watermark = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄." //ur watermark
+global.ownertag = ['62895366943070'] //ur owner tag
+global.ownernummenu = ['62895366943070'] //ur owner number in menu and all
+global.watermark = "Jika Anda Spam Bot Tanpa Sebab Sistem akan Memasukan Nomor daftar hitam" //ur watermark
 global.botscript = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"
-global.linkz1 = ""
-global.linkz2 = ""
+global.linkz1 = "https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ"
+global.linkz2 = "https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
